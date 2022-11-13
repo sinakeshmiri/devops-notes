@@ -60,5 +60,12 @@ query a view:
 
 ![image](https://user-images.githubusercontent.com/72389059/201512360-3b370b8e-8418-4898-aa4a-03b86a4ae215.png)
 
+# SQL flavors:
+
+  - mostly same laguage and keywords 
+  - all of them uses relational dbs and tables
+  - must fllow universal standards
+
+![image](https://user-images.githubusercontent.com/72389059/201512564-8fe63140-62b0-47bd-b8d5-5a670136d076.png)
 
 
