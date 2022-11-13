@@ -56,6 +56,8 @@ SELECT id , name , year_hired
 FROM employees;
 ```
 query a view:
+
+
 ![image](https://user-images.githubusercontent.com/72389059/201512360-3b370b8e-8418-4898-aa4a-03b86a4ae215.png)
 
 
