@@ -32,4 +32,15 @@ https://wiki.sei.cmu.edu/confluence/display/seccode/Top+10+Secure+Coding+Practic
 
 ![image](https://user-images.githubusercontent.com/72389059/206439695-9ab85e8e-6dd9-4754-bc85-fbaed34ed978.png)
 
+ ***sast***:
+ 
+ scaning  the source ->  find bugs + false postive
+ 
+ https://www.nist.gov/itl/ssd/software-quality-group/source-code-security-analyzers
+ 
+ 
+ # Build :
+ 
+ ![image](https://user-images.githubusercontent.com/72389059/206442146-15ecae34-1566-408e-9447-09a98f9d564a.png)
 
+ 
