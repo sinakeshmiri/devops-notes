@@ -5,7 +5,8 @@
 
   - Risk Framework ( FISMA ) :
 
-
+      https://csrc.nist.gov/Projects/risk-management/
+      
   - Risk Manager:
     - the person who is responsible for risk desicions
     - must be aware of each risk impact
