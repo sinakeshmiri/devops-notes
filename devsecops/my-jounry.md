@@ -14,6 +14,7 @@
   
 
 **Policies:**
+https://www.sans.org/information-security-policy/
 
   - Security Champions:
     
