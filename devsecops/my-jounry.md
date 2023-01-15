@@ -1,5 +1,5 @@
 
-# the Begning:
+# the Begenning:
 
 **Risk management:** 
 
