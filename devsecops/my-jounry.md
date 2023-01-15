@@ -1,5 +1,5 @@
 
-# the Begenning:
+# the Beginning:
 
 **Risk management:** 
 
