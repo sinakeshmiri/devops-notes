@@ -11,7 +11,8 @@
     - must truly understands that secuirty requires continious efforts
   
 
-**Policies:** https://www.sans.org/information-security-policy/
+**Policies:** https://www.sans.org/information-security-policy
+https://purplesec.us/resources/cyber-security-policy-templates
 
   - Security Champions:
     
